@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "17f61aea-b295-43d3-824d-7bc41bbbc176",
+    "name": "Dr. Cornelius Brown",
+    "phone": "892.335.9190 x078",
+    "email": "Arne_Armstrong@gmail.com",
+    "job": "Customer Data Analyst"
+  },
+  {
+    "id": "5c941577-cb05-4a30-bc60-f230ce2c1de7",
+    "name": "Sergio Miller",
+    "phone": "(971) 461-0088 x75037",
+    "email": "Sherman.Oberbrunner@hotmail.com",
+    "job": "District Accountability Architect"
+  }
+]
