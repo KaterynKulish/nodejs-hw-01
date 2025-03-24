@@ -5,7 +5,7 @@ import { writeContacts } from '../utils/writeContacts.js';
 const generateContacts = async (number) => {
   const contactsList = await readContacts();
   const newContacts = Array(number).fill(0).map(createFakeContact);
-  console.log(`"Генерейт:"${[...contactsList, ...newContacts]}`);
+  //   console.log(`"Генерейт:"${[...contactsList, ...newContacts]}`);
   await writeContacts([...contactsList, ...newContacts]);
 };
 
